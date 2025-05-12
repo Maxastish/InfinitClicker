@@ -1,6 +1,4 @@
-There is only lib files for my own project about Infinit clicker game about numbers above infinity
-
-There is some game screenshots
+There are only library files here, but you can see screenshots of the program below
 
 ![photo_1_2025-05-12_19-53-14](https://github.com/user-attachments/assets/a96cf8bc-fc30-4c71-8911-3f256466926f)
 
